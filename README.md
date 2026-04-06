@@ -1,2 +1,2 @@
-# md5
+# script md5
 md5 hash script 
